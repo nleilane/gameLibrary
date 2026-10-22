@@ -192,3 +192,4 @@ C:\Users\Leilane - Estudos\Documents\gameLibrary\obj\Debug\net10.0\refint\gameLi
 C:\Users\Leilane - Estudos\Documents\gameLibrary\obj\Debug\net10.0\gameLibrary.pdb
 C:\Users\Leilane - Estudos\Documents\gameLibrary\obj\Debug\net10.0\gameLibrary.genruntimeconfig.cache
 C:\Users\Leilane - Estudos\Documents\gameLibrary\obj\Debug\net10.0\ref\gameLibrary.dll
+C:\Users\Leilane - Estudos\Documents\gameLibrary\obj\Debug\net10.0\gameLibrary.sourcelink.json

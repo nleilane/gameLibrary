@@ -9,9 +9,6 @@ public class Game
     //Metadata
     public string Platform {get; set;} = string.Empty;
     public string Genre {get; set;} = string.Empty;
-    public string Description {get; set;} = string.Empty;
-    public string Developer {get; set;} = string.Empty;
-    public string Publisher {get; set;} = string.Empty;
     public string? CoverImageUrl {get; set;} 
     public int ReleaseYear {get; set;}
     public int? UserRating {get; set;}
